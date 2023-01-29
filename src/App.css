@@ -1,0 +1,45 @@
+.orta-text {
+  display: flex;
+  align-items: center;
+}
+.yaqin {
+  margin-top: 50px;
+  padding: 10px 200px;
+}
+
+.allCard {
+  padding: 10px 0 60px 0;
+  gap: 40px;
+  justify-content: center;
+  border-bottom: 1px solid rgb(173, 173, 173);
+  margin-right: 200px;
+  margin-left: 200px;
+}
+p {
+  margin: 0;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding: 0 200px;
+  margin-top: 50px;
+}
+
+.logoo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+  margin: 0;
+}
+.logoo img {
+  width: 25%;
+}
+
+footer ol {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
